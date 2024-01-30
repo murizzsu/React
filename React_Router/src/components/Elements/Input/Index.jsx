@@ -5,7 +5,7 @@ const InputForm = (props) => {
     const {label, name, placeholder, type} = props
     return (
         <div className="mb-6">
-            <Label htmlfor={name}>{label}</Label>
+            <Label htmlFor={name}>{label}</Label>
             <Input type={type} name={name} placeholder={placeholder}/>
         </div>
     )
