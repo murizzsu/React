@@ -1,7 +1,11 @@
 # Configuration
+- Setup Vite
 > npm create vite@latest my-project -- --template react
+- Change Directory
 > cd my-project
+- Install Tailwind
 >  npm install -D tailwindcss postcss autoprefixer
+- Generate
 > npx tailwindcss init -p
 - Add the paths to all of your template files in your tailwind.config.js file.
 ``` /** @type {import('tailwindcss').Config} */
