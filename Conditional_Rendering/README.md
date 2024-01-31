@@ -15,7 +15,8 @@
 - Komponen bisa digunakan untuk pengkondisian
 - jika komponen masih dalam 1 file yang sama (workspace) maka tidak perlu menggunakan export default. Cukup panggil fungsi seperti authlayout
 
--- contoh lainnya ```
+-- contoh lainnya 
+```
 const Navigation = ({ type }) => {
     if (type === "login") {
         return (
