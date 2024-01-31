@@ -15,3 +15,24 @@
 - Komponen bisa digunakan untuk pengkondisian
 - jika komponen masih dalam 1 file yang sama (workspace) maka tidak perlu menggunakan export default. Cukup panggil fungsi seperti authlayout
 
+-- contoh lainnya ```
+const Navigation = ({ type }) => {
+    if (type === "login") {
+        return (
+            <p className='text-sm mt-5 text-center'>
+                Don't have an account? {" "}
+                {type == "login" && (<Link to='/register' className='font-bold text-blue-600'>{" "}Register</Link>)}
+            </p>
+        )
+    } else {
+        return (
+            <p className='text-sm mt-5 text-center'>
+                Already have an account? {" "}
+                {type == "register" && (<Link to='/login' className='font-bold text-blue-600'>{" "}Login</Link>)}
+            </p>
+        )
+    }
+}
+
+```
+
