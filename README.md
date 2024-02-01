@@ -3,3 +3,4 @@
 3. Atomic Desig
 4. React Router
 5. Conditional Rendering
+6. Nested Component
