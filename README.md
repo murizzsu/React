@@ -7,7 +7,8 @@
 6. Nested Component
 7. Rendering List
 8. Event_Handler
-9. Event
+9. State
+10. UseState
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
