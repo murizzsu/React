@@ -9,6 +9,7 @@
 8. Event_Handler
 9. State
 10. UseState
+11. LifeCycle
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
