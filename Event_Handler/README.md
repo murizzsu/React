@@ -43,7 +43,7 @@ window.addEventListener('resize', function() {
 ```
 localStorage.setItem('email', event.target.email.value)
 
-localStorage.setItem('email', event.target.password.value)
+localStorage.setItem('password', event.target.password.value)
 ```
 
 - cara mengambil data dari localstorage
