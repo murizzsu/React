@@ -10,6 +10,7 @@
 9. State
 10. UseState
 11. LifeCycle
+12. UseEffect
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
