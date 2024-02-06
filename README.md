@@ -11,6 +11,7 @@
 10. UseState
 11. LifeCycle
 12. UseEffect
+13. UseRef
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git

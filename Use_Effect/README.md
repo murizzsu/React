@@ -1,4 +1,4 @@
-# Use Reff
+# UseEffect
 - Seperti dalam praktek sebelumnya komponent DidMount, Update dll hanya bisa digunakan di class component, untuk functional component menggunakan hooks
 - Untuk mengimplemnetasikan lifecycle komponen didmount dan didupdate dalam fungsional komponent bisa menggunakan useEffect
 - Komponen perlu dimanipulasi untuk melakukan sikronisasi antar kompoenent
