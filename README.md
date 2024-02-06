@@ -12,6 +12,8 @@
 11. LifeCycle
 12. UseEffect
 13. UseRef
+14. Get Data API
+15. Post Data API
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
