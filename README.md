@@ -16,6 +16,7 @@
 15. Post Data API
 16. Custom Hooks
 17. Dynamic Routing
+18. Redux - State Management
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
