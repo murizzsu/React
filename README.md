@@ -17,6 +17,7 @@
 16. Custom Hooks
 17. Dynamic Routing
 18. Redux - State Management
+19. Redux Toolkit
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
