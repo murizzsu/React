@@ -19,6 +19,7 @@
 18. Redux - State Management
 19. Redux Toolkit
 20. React Redux
+21. Use Context
 
 ## Cara menjalankan program
 1. Git clone https://github.com/murizzsu/React.git
